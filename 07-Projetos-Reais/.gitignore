@@ -1,0 +1,5 @@
+# Ignora todos os arquivos
+*
+
+# Mas não ignora o próprio .gitignore
+!.gitignore
