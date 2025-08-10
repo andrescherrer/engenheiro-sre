@@ -4,7 +4,7 @@ _Desenvolvedor → Site Reliability Engineer (SRE)_
 > Objetivo: Migrar de dev para SRE em até 9 meses, com prática constante e portfólio público.
 
 ## 🗓 Cronograma
-- **Mês 1-2:** Fundamentos (Linux, redes, SRE principles)
+- **Mês 1-2:** Fundamentos (Linux, redes, SRE principles) [10/08/2025 até 10/10/2025]
 - **Mês 2-3:** Cloud (AWS)
 - **Mês 3-4:** Contêineres (Docker, Kubernetes básico)
 - **Mês 4-5:** Infra como Código e Automação (Terraform, Ansible)
